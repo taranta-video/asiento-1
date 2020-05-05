@@ -89,7 +89,7 @@ h6 {
 }
 
 .back-to-top i:hover {
-    background: #57aae1;
+    background: #e1251b;
     color: #fff;
 }
 
@@ -563,13 +563,7 @@ section {
 }
 
 .section-title h2::before,
-.section-title h2::after {
-    content: '';
-    width: 50px;
-    height: 2px;
-    background: #e1251b;
-    display: inline-block;
-}
+.section-title h2::after {}
 
 .section-title h2::before {
     margin: 0 15px 10px 0;
