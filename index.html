@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Vesperr Bootstrap Template - Index</title>
+    <meta content="" name="descriptison">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!--fonts-->
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500;700&display=swap" rel="stylesheet">
+
+    <!-- =======================================================
+  * Template Name: Vesperr - v2.0.0
+  * Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+
+    <link rel="stylesheet" href="demo-styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet" />
+
+    <!-- Loads <model-viewer> for modern browsers: -->
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
+    <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
+
+
+</head>
+
+<body>
+
+
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center bg img-fluid">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 pt-lg-0 flex-column justify-content-center">
+
+                    <img class="padding-10 img-fluid" src="assets/img/pp-logo-ra.png">
+
+
+
+
+                    <img class="padding-10 img-fluid" src="assets/img/conoce.png">
+
+
+
+
+                    <h2 class="padding-10 raleway" data-aos="fade-up" data-aos-delay="400">Seguro, confortable y con entretenimiento. Descubre cada una de las tecnologías que tiene para ti.</h2>
+                    <div data-aos="fade-up" data-aos-delay="800">
+                        <a href="#about" class="btn-get-started scrollto raleway bold">INICIAR</a>
+                    </div>
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
+                    <img src="assets/img/asiento.png" class="animated max-width" alt="">
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- End Hero -->
+
+    <main id="main">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- ======= Contact Section ======= -->
+        <section id="contact" class="contact">
+            <div class="container">
+
+                <div class="section-title padding-grande" data-aos="fade-up">
+                    <h2>NUESTRO ASIENTO</h2>
+                </div>
+
+
+
+                <div id="card">
+                    <!-- All you need to put beautiful, interactive 3D content on your site: -->
+                    <model-viewer src="models/asiento5.gltf" ios-src="models/asiento5.usdz" alt="Un asiento de Primera Plus v5" shadow-intensity="1" camera-controls interaction-prompt="auto" ar magic-leap exposure="0.5">
+
+                        <button slot="hotspot-apoyo-facial" data-position="-7.319333188140284 1.3294144732834474 -28.159434995761597" data-normal="-0.0551424609622819 0.26619119433421856 0.9623417049353861">
+                            <div class="annotation">Apoyo facial</div>
+                            </button>
+
+                        <button slot="hotspot-cinturon-seguridad" data-position="-7.319917994410697m 0.49640436089060463m -28.219498729048933m" data-normal="-0.006938786622478124m -0.09010326170808652m 0.9959082565526666m">
+                             <div class="annotation">Cinturón de seguridad</div>
+                            </button>
+
+                        <button slot="hotspot-portavasos" data-position="-6.920372355739611m 0.32136867995286894m -27.642942691278556m" data-normal="0.14231479131196859m 0m 0.9898214486329495m">
+                            <div class="annotation">Portavasos</div>
+                            </button>
+
+                        <button slot="hotspot-conexion" data-position="-7.669535959299574m 0.18051339944315936m -27.771113606961446m" data-normal="0m 0m 1m">
+                            <div class="annotation">Conexión eléctrica</div>
+                            </button>
+
+                        <button slot="hotspot-respaldo" data-position="-7.6286903985205825m 0.9674025633860488m -28.321538888805474m" data-normal="-0.9997750191846274m -0.0017029681435220196m 0.0211426326146948m">
+                            <div class="annotation">Respaldo ajustable</div>
+                            </button>
+
+                        <button slot="hotspot-pantalla" data-position="-7.3047747260157845m 1.2264175188358577m -28.451999999999998m" data-normal="0m 0m -1m">
+                            <div class="annotation">Pantalla de entretenimiento</div>
+                            </button>
+
+                        <button slot="hotspot-reposapies" data-position="-7.31028242729171m 0.6222130257649625m -28.534659688413143m" data-normal="0m 0m -0.9999999999999999m">
+                            <div class="annotation">Reposapiés</div>
+                            </button>
+
+                        <button slot="hotspot-descansabrazos" data-position="-6.882301089163494m 0.6267156940116729m -28.04827346636624m" data-normal="0.9982175715518354m -0.00047466209406722806m 0.059677923397625836m">
+                            <div class="annotation">Descansabrazos</div>
+                            </button>
+
+
+                    </model-viewer>
+
+
+
+
+
+
+
+                </div>
+
+
+
+            </div>
+        </section>
+        <!-- End Contact Section -->
+
+    </main>
+    <!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="row d-flex align-items-center">
+                <div class="col-lg-12 text-lg-left text-center">
+
+                    <div class="credits">
+
+                        <a href="#">Aviso de privacidad</a> - Todos los derechos reservados. Autobuses de la Piedad S.A. de C.V. 2020.
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+    <script src="assets/vendor/counterup/counterup.min.js"></script>
+    <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/venobox/venobox.min.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
