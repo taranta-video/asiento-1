@@ -34,6 +34,27 @@
     font-weight: 700 !important;
 }
 
+.boton-ar {
+    background-color: white !important;
+    border-radius: 4px !important;
+    border: none !important;
+    position: absolute !important;
+    top: 16px !important;
+    right: 16px !important;
+}
+
+.width {
+    width: 170px;
+    height: 30px;
+    font-size: 12px !important;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background: #e1251b;
+    color: #fff;
+}
+
 
 /*--------------------------------------------------------------
 # General
@@ -438,7 +459,7 @@ h6 {
     font-size: 24px;
 }
 
-#hero .btn-get-started {
+.btn-get-started {
     font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -453,7 +474,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-    background: #3498db;
+    background: #941811;
     color: #fff;
 }
 
