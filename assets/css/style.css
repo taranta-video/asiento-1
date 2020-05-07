@@ -44,15 +44,20 @@
 }
 
 .width {
-    width: 170px;
-    height: 30px;
+    width: 170px !important;
+    height: 90px !important;
     font-size: 12px !important;
-    margin: 5px;
-    align-items: center;
-    justify-content: center;
-    border-radius: 4px;
-    background: #e1251b;
-    color: #fff;
+    margin: 20px !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border-radius: 10px !important;
+    background: white !important;
+    color: #fff !important;
+    padding: 10px !important;
+}
+
+.width img {
+    width: 100% !important;
 }
 
 
