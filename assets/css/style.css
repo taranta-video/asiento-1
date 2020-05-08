@@ -44,10 +44,11 @@
 }
 
 .width {
-    width: 170px !important;
-    height: 90px !important;
+    width: 100px !important;
+    height: 50px !important;
     font-size: 12px !important;
-    margin: 20px !important;
+    margin: 5px !important;
+    margin-bottom: 10px;
     align-items: center !important;
     justify-content: center !important;
     border-radius: 10px !important;
@@ -57,7 +58,7 @@
 }
 
 .width img {
-    width: 100% !important;
+    /*width: 50% !important;*/
 }
 
 
